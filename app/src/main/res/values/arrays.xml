@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_player">
+        <item>이상철</item>
+        <item>소지섭</item>
+        <item>신동엽</item>
+        <item>김건모</item>
+        <item>송새벽</item>
+    </string-array>
+</resources>
